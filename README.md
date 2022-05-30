@@ -1,6 +1,7 @@
 # Gialog
 
 Blog template to use GitHub Issues as article editor.
+https://hxbdy.github.io/Blog
 
 ## Usage
 
