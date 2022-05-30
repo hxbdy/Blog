@@ -8,7 +8,7 @@ export default function Layout({ children }) {
     <>
       <Head>
         <title>{siteTitle}</title>
-        <link rel="icon" sizes="180x180" href="../public/IMG_-st443t.jpg"></link>
+        <link rel="icon" sizes="180x180" href="./IMG_-st443t.jpg"></link>
       </Head>
       <header>
         <nav>
