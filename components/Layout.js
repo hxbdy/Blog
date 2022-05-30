@@ -8,6 +8,7 @@ export default function Layout({ children }) {
     <>
       <Head>
         <title>{siteTitle}</title>
+        <link rel="icon" sizes="180x180" href="../public/IMG_-st443t.jpg"></link>
       </Head>
       <header>
         <nav>
@@ -25,6 +26,16 @@ export default function Layout({ children }) {
             <li>
               <Link href="/">
                 <a>Home</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="https://twitter.com/hxbdy625">
+                <a>Twitter</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="https://hxbdy.tumblr.com/">
+                <a>Tumblr</a>
               </Link>
             </li>
           </ul>
